@@ -2,7 +2,7 @@
 #
 # VERSION               0.0.2
 
-FROM centos7
+FROM centos:7
 MAINTAINER haixiao <xiaohaoppy@163.com>
 
 # 安装环境
