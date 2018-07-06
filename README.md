@@ -4,7 +4,7 @@ kbengine编译环境镜像
 # 如何使用
 
 ```
-gir clone https://github.com/xiaohaoppy/KBE_BUILD_EVN.git
+git clone https://github.com/xiaohaoppy/KBE_BUILD_EVN.git
 
 cd KBE_BUILD_EVN
 
